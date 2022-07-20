@@ -1,7 +1,6 @@
 .DS_Store
 *.EXE
 *.OBJ
-_others/
 !debug.exe
 !LINK.EXE
 !MASM.EXE
