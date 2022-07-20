@@ -1,6 +1,6 @@
 # DosBox Practice
 
-## 下载
+## 下载DoxBox
 ```bash
 brew install dosbox
 ```
